@@ -142,3 +142,37 @@ header {
     font-size: 35px;
     letter-spacing: 2px;
 }
+
+h4 {
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#work {
+    text-align: center;
+    padding: 70px 7px;
+}
+
+.text-work {
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+
+.box-work {
+    display: inline-block;
+    width: 30%;
+    margin-top: 63px;
+}
+
+.box-work img {
+    width: 300px;
+}
+
+footer {
+    height: 70px;
+    background-color: #2b2e34;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+}
