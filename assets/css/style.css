@@ -169,6 +169,14 @@ h4 {
     width: 300px;
 }
 
+#team {
+    background-color: #06b29f;
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 150px;
+}
+
 footer {
     height: 70px;
     background-color: #2b2e34;
