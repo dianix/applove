@@ -1,6 +1,6 @@
-## **** APPLOVE ****
+# **** APPLOVE ****
 
-# Ejercicio guiado
+### Ejercicio guiado
 
 1. Estructuración en html de landing-page con 3 secciones principales.
   * Services
