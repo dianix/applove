@@ -186,25 +186,27 @@ footer {
 }
 
 /* ventana emergente */
-.ventana {
+#ventanaEmergente {
     display: none;
     position: fixed;
     z-index: 1;
     padding-top: 100px;
+    left: 0;
+    top: 0;
     width: 100%;
     height: 100%;
     overflow: auto;
+    background-color: #009b71;
     background-color: rgba(0, 155, 113, 0.86);
 }
 
 .img-ventana {
     margin: auto;
     display: block;
-    width: 70%;
-    max-width: 600px;
+    width: 50%;    
 }
 
-.tache {
+#tache {
     position: absolute;
     top: 20px;
     right: 30px;
@@ -213,8 +215,8 @@ footer {
     font-weight: bold;
 }
 
-    tache:hover {
-        color: #00d39a;
+    #tache:hover {
+        color: #6fffd8;
         cursor: pointer;
     }
 
